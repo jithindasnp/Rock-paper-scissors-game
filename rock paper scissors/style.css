@@ -1,0 +1,65 @@
+.container{
+    height: 90vh;
+    background-image: url("./images/omid-armin-w0erZAfnkjg-unsplash.jpg");
+    background-size: cover;
+    border-radius: 40px;
+    color: rgb(0, 0, 0);
+    text-shadow: 4px 4px 3px rgba(149, 144, 144, 0.778);    
+
+}
+.btn-circle.btn-xl {
+    width: 120px;
+    height: 120px;
+    padding: 20px 8px;
+    border-radius: 65px;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 4px 2px  5px rgb(203, 203, 203);
+    color: white;
+    text-shadow: 2px 3px 5px rgb(151, 151, 151);
+    border: 1px solid white;
+}
+.btn-circle.btn-sm {
+    width: 100px;
+    height: 30px;
+    padding: 0px;
+    border-radius: 10px;
+    font-size: 19px;
+    text-align: center;
+    border: 2px solid white;
+    background-color: rgb(4, 0, 2);
+    box-shadow: 4px 4px 5px black;
+    color: white;
+    text-shadow: 2px 3px 5px black;
+}
+.box{
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 20vh;
+    width: 10vw;
+    margin-top: 4vh;
+}
+.tieRow{
+    height: 8vh;
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 2px 8px rgb(255, 255, 255);
+    font-size: 30px;
+}
+.counterDiv{
+    margin-top: 20vh;
+    display: flex;
+}
+.attemptDiv{
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 5vh;
+    margin-top: 22vh;
+    background-color: white;
+}
+.starUser,.starComp{
+    color: #f0e807;
+}
+.countHeart{
+    color: red;
+}
